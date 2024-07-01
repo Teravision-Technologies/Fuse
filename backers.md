@@ -22,3 +22,4 @@ You can join these backers by [sponsoring on GitHub](https://github.com/sponsors
 - [Daniel Murawsky](https://github.com/dmurawsky) of [Urgos](https://urgos.io)
 - [Linda Macdonald](https://github.com/lindamacdonald)
 - Sam Corcos
+- [Teravision Technologies](https://www.teravisiontech.com/) 
